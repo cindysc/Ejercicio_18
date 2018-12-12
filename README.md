@@ -23,13 +23,13 @@ Deploy, SEO, y seguridad - Wordpress
 - limpieza de oficinas part time
 - aseo
 
-### Descripción
+## Descripción
 Se tomaron las palabras usadas en el rubro para ver su posicionamiento, se seleccionaron las que tenían equivalencia entre volumen de búsqueda y competencia para lograr posicionar la empresa.
 Por medio de una tabla se clasifican las palabras según estas especificaciones y posteriormente incluirlas en el sitio.
 
 
-#### Inicio
+## Inicio
 <img src="img/inicio.jpg" alt="Screenshot de la entrada" style="max-width:100%;">
 
-##### Entrada
+## Entrada
 <img src="img/entrada.jpg" alt="Screenshot de la entrada" style="max-width:100%;">
